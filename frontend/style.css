@@ -8,7 +8,7 @@
 }
 
 body {
-  background: #d3d9d4;
+  color: white;
 }
 
 header {
@@ -50,6 +50,9 @@ header {
   display: flex;
   align-items: center;
   padding: 0 10%;
+  background: url(../frontend/image/homecover.jpg) no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 
 .homeContent {
